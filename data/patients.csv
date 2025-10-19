@@ -1,0 +1,5 @@
+PatientID,Age,Sex,Blood Pressure,Cholesterol,Diagnosis 
+P001,45,F,120/80,190,Hypertension
+P002,62,M,140/90,230,Coronary 
+P003,29,F,110/70,160,Healthy 
+P004,75,M,150/95,250,Coronary 
